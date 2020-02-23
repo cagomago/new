@@ -1,3 +1,2 @@
 # Çağrı Kumaş
-new
-new
+natural language processing
